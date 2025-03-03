@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
-array=('uva' 'maça', 'ABACAXI')
+# array=('uva' 'maça', 'ABACAXI')
 
-echo "${array[O]}"
-echo "${array[1]}"
-echo "${array[@]}"
-echo "${#array[@]}"
-echo {a..z}
+# echo "${array[O]}"
+# echo "${array[1]}"
+# echo "${array[@]}"
+# echo "${#array[@]}"
+# echo {a..z}
+echo {1000..100000}
 
 
 
